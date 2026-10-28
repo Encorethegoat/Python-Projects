@@ -11,5 +11,5 @@ class sum_add:
             a //= 10
         print("The sum of the digits is:", sum)
 
-p1 = sum_add()
-p1.sum_1(1356)
+sum0 = sum_add()
+sum0.sum_1(7894)
